@@ -1,0 +1,201 @@
+﻿fecha_registro,tipo_servicio,clientes_afectados,latencia_ms,cumplimiento_sla
+2025-03-01,Empresas,144,21.3,No cumple
+2025-03-02,Internet Hogar,290,36.5,No cumple
+2025-03-03,Empresas,427,97.4,Cumple
+2025-03-04,Móvil,116,119.4,Cumple
+2025-03-05,Empresas,389,111.0,No cumple
+2025-03-06,Internet Hogar,497,19.7,No cumple
+2025-03-07,Móvil,44,82.8,Cumple
+2025-03-08,Internet Hogar,212,48.8,Cumple
+2025-03-09,Empresas,335,62.3,No cumple
+2025-03-10,Internet Hogar,378,64.2,Cumple
+2025-03-11,Móvil,237,52.1,No cumple
+2025-03-12,Internet Hogar,18,41.5,Cumple
+2025-03-13,Internet Hogar,155,79.5,Cumple
+2025-03-14,Empresas,422,49.9,No cumple
+2025-03-15,Empresas,469,46.8,No cumple
+2025-03-16,Móvil,384,32.4,No cumple
+2025-03-17,Móvil,149,115.9,No cumple
+2025-03-18,Internet Hogar,418,57.3,No cumple
+2025-03-19,Empresas,223,55.8,Cumple
+2025-03-20,Internet Hogar,274,57.7,Cumple
+2025-03-21,Empresas,328,78.3,Cumple
+2025-03-22,Empresas,355,28.9,No cumple
+2025-03-23,Móvil,333,20.7,No cumple
+2025-03-24,Internet Hogar,107,100.1,Cumple
+2025-03-25,Empresas,387,100.9,Cumple
+2025-03-26,Internet Hogar,397,30.6,Cumple
+2025-03-27,Internet Hogar,434,90.6,No cumple
+2025-03-28,Internet Hogar,154,37.8,Cumple
+2025-03-29,Empresas,333,48.7,No cumple
+2025-03-30,Móvil,347,117.1,Cumple
+2025-03-31,Empresas,421,91.3,No cumple
+2025-04-01,Móvil,108,109.7,Cumple
+2025-04-02,Internet Hogar,258,35.7,Cumple
+2025-04-03,Internet Hogar,495,68.0,No cumple
+2025-04-04,Internet Hogar,359,31.1,Cumple
+2025-04-05,Empresas,96,106.7,Cumple
+2025-04-06,Empresas,274,15.2,Cumple
+2025-04-07,Internet Hogar,340,101.9,Cumple
+2025-04-08,Empresas,175,88.9,Cumple
+2025-04-09,Internet Hogar,313,111.4,No cumple
+2025-04-10,Internet Hogar,140,100.2,No cumple
+2025-04-11,Móvil,201,29.4,Cumple
+2025-04-12,Internet Hogar,136,74.7,No cumple
+2025-04-13,Internet Hogar,174,92.0,Cumple
+2025-04-14,Internet Hogar,386,117.3,Cumple
+2025-04-15,Móvil,480,80.9,No cumple
+2025-04-16,Empresas,31,45.2,No cumple
+2025-04-17,Internet Hogar,429,96.9,No cumple
+2025-04-18,Empresas,89,11.9,No cumple
+2025-04-19,Internet Hogar,237,70.7,No cumple
+2025-04-20,Empresas,148,78.4,No cumple
+2025-04-21,Móvil,414,40.3,Cumple
+2025-04-22,Empresas,266,52.7,No cumple
+2025-04-23,Internet Hogar,19,106.4,No cumple
+2025-04-24,Empresas,357,118.5,Cumple
+2025-04-25,Empresas,218,25.3,No cumple
+2025-04-26,Internet Hogar,172,113.5,Cumple
+2025-04-27,Móvil,140,55.7,No cumple
+2025-04-28,Internet Hogar,169,64.5,No cumple
+2025-04-29,Empresas,287,89.4,Cumple
+2025-04-30,Empresas,173,72.2,No cumple
+2025-05-01,Empresas,318,75.1,Cumple
+2025-05-02,Móvil,269,64.2,Cumple
+2025-05-03,Empresas,226,40.6,No cumple
+2025-05-04,Internet Hogar,91,47.8,No cumple
+2025-05-05,Empresas,86,112.5,No cumple
+2025-05-06,Internet Hogar,179,78.6,Cumple
+2025-05-07,Internet Hogar,335,101.5,Cumple
+2025-05-08,Móvil,319,50.4,No cumple
+2025-05-09,Internet Hogar,49,113.0,Cumple
+2025-05-10,Empresas,111,70.8,Cumple
+2025-05-11,Internet Hogar,171,40.3,No cumple
+2025-05-12,Móvil,365,87.4,Cumple
+2025-05-13,Internet Hogar,50,37.7,No cumple
+2025-05-14,Móvil,326,71.5,Cumple
+2025-05-15,Empresas,133,65.6,Cumple
+2025-05-16,Móvil,160,15.9,No cumple
+2025-05-17,Móvil,25,96.9,Cumple
+2025-05-18,Móvil,301,33.5,Cumple
+2025-05-19,Internet Hogar,39,16.0,No cumple
+2025-05-20,Internet Hogar,106,41.2,Cumple
+2025-05-21,Móvil,393,70.5,No cumple
+2025-05-22,Móvil,38,68.2,No cumple
+2025-05-23,Empresas,305,78.4,Cumple
+2025-05-24,Móvil,156,25.7,Cumple
+2025-05-25,Internet Hogar,169,118.6,No cumple
+2025-05-26,Móvil,336,82.0,No cumple
+2025-05-27,Internet Hogar,261,79.3,Cumple
+2025-05-28,Internet Hogar,376,22.9,Cumple
+2025-05-29,Móvil,129,13.9,No cumple
+2025-05-30,Empresas,398,118.3,No cumple
+2025-05-31,Internet Hogar,266,31.8,Cumple
+2025-06-01,Internet Hogar,455,38.3,Cumple
+2025-06-02,Internet Hogar,472,40.5,No cumple
+2025-06-03,Internet Hogar,392,37.9,Cumple
+2025-06-04,Empresas,287,87.9,No cumple
+2025-06-05,Empresas,145,89.9,Cumple
+2025-06-06,Empresas,403,117.2,No cumple
+2025-06-07,Empresas,428,19.5,No cumple
+2025-06-08,Internet Hogar,131,96.8,No cumple
+2025-06-09,Internet Hogar,178,57.3,No cumple
+2025-06-10,Empresas,343,43.8,No cumple
+2025-06-11,Móvil,190,112.1,No cumple
+2025-06-12,Empresas,204,52.9,No cumple
+2025-06-13,Internet Hogar,215,26.2,No cumple
+2025-06-14,Móvil,374,38.9,Cumple
+2025-06-15,Empresas,102,109.5,No cumple
+2025-06-16,Móvil,480,104.6,Cumple
+2025-06-17,Internet Hogar,442,81.6,No cumple
+2025-06-18,Internet Hogar,375,114.5,Cumple
+2025-06-19,Internet Hogar,463,37.8,Cumple
+2025-06-20,Empresas,452,82.4,No cumple
+2025-06-21,Internet Hogar,48,114.5,No cumple
+2025-06-22,Internet Hogar,10,37.0,Cumple
+2025-06-23,Móvil,325,26.2,No cumple
+2025-06-24,Empresas,260,117.1,Cumple
+2025-06-25,Internet Hogar,326,117.6,Cumple
+2025-06-26,Empresas,493,35.6,No cumple
+2025-06-27,Móvil,115,58.4,No cumple
+2025-06-28,Internet Hogar,219,77.1,No cumple
+2025-06-29,Internet Hogar,291,86.1,Cumple
+2025-06-30,Móvil,43,89.4,Cumple
+2025-07-01,Internet Hogar,140,61.8,No cumple
+2025-07-02,Móvil,311,17.1,Cumple
+2025-07-03,Empresas,83,118.2,Cumple
+2025-07-04,Internet Hogar,488,79.6,Cumple
+2025-07-05,Empresas,274,102.5,No cumple
+2025-07-06,Empresas,344,38.2,Cumple
+2025-07-07,Móvil,478,66.7,No cumple
+2025-07-08,Empresas,251,108.2,Cumple
+2025-07-09,Internet Hogar,482,21.0,Cumple
+2025-07-10,Móvil,169,27.8,No cumple
+2025-07-11,Empresas,305,36.0,No cumple
+2025-07-12,Móvil,404,11.2,No cumple
+2025-07-13,Internet Hogar,447,19.9,Cumple
+2025-07-14,Móvil,282,83.5,Cumple
+2025-07-15,Móvil,454,117.1,Cumple
+2025-07-16,Internet Hogar,365,89.8,No cumple
+2025-07-17,Empresas,281,103.8,Cumple
+2025-07-18,Empresas,43,11.3,Cumple
+2025-07-19,Móvil,114,93.4,No cumple
+2025-07-20,Internet Hogar,23,95.8,No cumple
+2025-07-21,Internet Hogar,430,21.6,No cumple
+2025-07-22,Internet Hogar,197,57.1,No cumple
+2025-07-23,Móvil,97,43.7,Cumple
+2025-07-24,Internet Hogar,27,91.7,No cumple
+2025-07-25,Empresas,295,26.6,Cumple
+2025-07-26,Móvil,13,39.7,Cumple
+2025-07-27,Móvil,334,66.1,No cumple
+2025-07-28,Internet Hogar,273,118.5,No cumple
+2025-07-29,Empresas,141,53.1,Cumple
+2025-07-30,Internet Hogar,213,31.4,No cumple
+2025-07-31,Móvil,326,100.2,Cumple
+2025-08-01,Empresas,53,44.9,No cumple
+2025-08-02,Empresas,346,68.6,Cumple
+2025-08-03,Internet Hogar,376,69.9,Cumple
+2025-08-04,Empresas,82,73.6,No cumple
+2025-08-05,Empresas,205,74.4,Cumple
+2025-08-06,Empresas,447,34.7,Cumple
+2025-08-07,Móvil,147,22.7,No cumple
+2025-08-08,Internet Hogar,416,47.0,Cumple
+2025-08-09,Móvil,319,117.2,Cumple
+2025-08-10,Móvil,368,86.6,No cumple
+2025-08-11,Empresas,15,44.0,Cumple
+2025-08-12,Móvil,451,32.3,Cumple
+2025-08-13,Internet Hogar,265,11.4,No cumple
+2025-08-14,Internet Hogar,250,23.1,No cumple
+2025-08-15,Móvil,491,82.5,No cumple
+2025-08-16,Empresas,419,70.4,Cumple
+2025-08-17,Móvil,332,114.7,Cumple
+2025-08-18,Móvil,497,60.4,Cumple
+2025-08-19,Empresas,275,106.3,No cumple
+2025-08-20,Móvil,336,75.3,Cumple
+2025-08-21,Internet Hogar,335,14.5,No cumple
+2025-08-22,Internet Hogar,15,17.6,Cumple
+2025-08-23,Empresas,312,33.6,Cumple
+2025-08-24,Internet Hogar,189,108.5,No cumple
+2025-08-25,Internet Hogar,451,65.3,No cumple
+2025-08-26,Móvil,61,20.1,No cumple
+2025-08-27,Internet Hogar,316,37.2,No cumple
+2025-08-28,Móvil,360,26.4,No cumple
+2025-08-29,Internet Hogar,111,72.4,Cumple
+2025-08-30,Internet Hogar,322,104.2,No cumple
+2025-08-31,Empresas,356,43.1,Cumple
+2025-09-01,Empresas,463,91.8,No cumple
+2025-09-02,Internet Hogar,72,44.2,Cumple
+2025-09-03,Móvil,81,88.3,No cumple
+2025-09-04,Empresas,386,119.9,No cumple
+2025-09-05,Empresas,427,47.5,No cumple
+2025-09-06,Internet Hogar,473,17.7,No cumple
+2025-09-07,Móvil,249,28.1,No cumple
+2025-09-08,Internet Hogar,216,19.0,No cumple
+2025-09-09,Móvil,20,78.0,Cumple
+2025-09-10,Empresas,329,114.1,Cumple
+2025-09-11,Móvil,376,34.2,No cumple
+2025-09-12,Móvil,103,13.9,Cumple
+2025-09-13,Empresas,158,48.9,Cumple
+2025-09-14,Móvil,349,52.5,No cumple
+2025-09-15,Internet Hogar,499,23.0,Cumple
+2025-09-16,Internet Hogar,464,75.0,No cumple

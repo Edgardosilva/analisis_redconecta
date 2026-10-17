@@ -1,0 +1,8 @@
+﻿,trafico_datos_gb,latencia_ms,incidencias_reportadas,tickets_soporte,tiempo_resolucion_hr,clientes_afectados,sla_cumple
+trafico_datos_gb,1.0,-0.077,-0.123,-0.082,-0.21,-0.04,-0.026
+latencia_ms,-0.077,1.0,0.006,-0.203,-0.068,-0.034,0.092
+incidencias_reportadas,-0.123,0.006,1.0,-0.075,-0.0,0.064,-0.092
+tickets_soporte,-0.082,-0.203,-0.075,1.0,0.067,-0.009,-0.071
+tiempo_resolucion_hr,-0.21,-0.068,-0.0,0.067,1.0,0.123,-0.04
+clientes_afectados,-0.04,-0.034,0.064,-0.009,0.123,1.0,-0.024
+sla_cumple,-0.026,0.092,-0.092,-0.071,-0.04,-0.024,1.0

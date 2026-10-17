@@ -1,0 +1,10 @@
+﻿region,tipo_servicio,registros,trafico_prom_gb,latencia_prom_ms,incidencias_total,tickets_total,tiempo_resolucion_prom_hr,clientes_afectados_total,pct_sla_cumple,ic95_sla_inf,ic95_sla_sup
+Centro,Empresas,24,342.85,69.42,343,681,27.95,7359,45.83,25.0,66.7
+Centro,Internet Hogar,27,272.18,66.95,338,989,21.67,6981,37.04,18.5,59.3
+Centro,Móvil,17,265.2,67.92,181,487,24.26,4138,52.94,29.4,76.5
+Norte,Empresas,18,344.59,68.59,229,485,20.57,4649,38.89,16.7,61.1
+Norte,Internet Hogar,30,294.99,59.56,415,896,22.48,8334,43.33,26.7,60.0
+Norte,Móvil,17,268.4,69.44,204,600,27.28,4475,52.94,29.4,76.5
+Sur,Empresas,22,251.93,69.41,303,748,27.03,5323,59.09,36.4,77.3
+Sur,Internet Hogar,22,240.49,62.92,360,734,30.6,5610,63.64,40.9,81.8
+Sur,Móvil,23,300.51,53.51,336,658,27.03,6206,43.48,26.1,65.2
